@@ -6,7 +6,7 @@ Just like a router or switch device, also like a linux box, users can use the te
 在当今的云计算领域，貌似还没有一个统一的接口，去兼容，哪怕是把各家的 API 统一到一个程序里来，创建资源啥的还是需要去 WEB 页面，费时费力，如果有这么个玩意儿，把云计算的基础设施当成了一个基础操作系统，类似于 linux 管理 PC ， cicmi 会来管理云计算资源。
 
 | command | description |
-| -- | -- |
+| --- | --- |
 | ssh xxx@xxx | connect the cloud management interface |
 | show infrastrutures | list the Machine clusters that have its own vms and the firewall |
 | use infrastruture my1 | enter the context of the one infrastrues |
